@@ -64,8 +64,7 @@
 
 			.blog-post {
 				margin-bottom: 60px;
-				border-bottom: 1px solid #ddd;
-				padding-bottom: 40px;
+				padding-bottom: 20px;
 			}
 
 			.blog-post:last-child {
@@ -74,8 +73,6 @@
 
 			.post-map {
 				text-align: center;
-
-				margin-bottom: 20px;
 			}
 
 			.post-map img {
