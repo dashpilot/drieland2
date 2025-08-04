@@ -47,8 +47,8 @@
 			}
 
 			.intro-text {
-				font-size: 18px;
-				line-height: 1.7;
+				font-size: 22px;
+				line-height: 1.6;
 				margin: 10px;
 				margin-bottom: 60px;
 				text-align: justify;
@@ -99,8 +99,8 @@
 			}
 
 			.post-content {
-				font-size: 16px;
-				line-height: 1.6;
+				font-size: 22px;
+				line-height: 1.5;
 
 				margin-bottom: 25px;
 				text-align: justify;
@@ -135,7 +135,7 @@
 			.tagline {
 				text-align: center;
 				font-style: italic;
-				font-size: 16px;
+				font-size: 22px;
 				color: #666;
 				margin-top: 20px;
 			}
@@ -266,17 +266,6 @@
 					padding: 20px 15px;
 				}
 
-				.intro-text {
-					font-size: 16px;
-				}
-
-				.post-title {
-					font-size: 24px;
-				}
-
-				.intro-text::first-letter {
-					font-size: 2.5em;
-				}
 
 				.gallery-grid {
 					grid-template-columns: 1fr;
