@@ -93,7 +93,7 @@
 				font-weight: 600;
 				text-transform: uppercase;
 				letter-spacing: 2px;
-
+                line-height: 1.2; 
 				margin-bottom: 20px;
 				text-align: left;
 			}
@@ -101,7 +101,6 @@
 			.post-content {
 				font-size: 22px;
 				line-height: 1.5;
-
 				margin-bottom: 25px;
 				text-align: justify;
 			}
